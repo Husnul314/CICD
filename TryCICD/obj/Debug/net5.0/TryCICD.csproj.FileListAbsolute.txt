@@ -1,0 +1,8 @@
+D:\husnul\CICD_GitHub\CICD_GitHub\TryCICD\obj\Debug\net5.0\TryCICD.csproj.AssemblyReference.cache
+D:\husnul\CICD_GitHub\CICD_GitHub\TryCICD\obj\Debug\net5.0\TryCICD.GeneratedMSBuildEditorConfig.editorconfig
+D:\husnul\CICD_GitHub\CICD_GitHub\TryCICD\obj\Debug\net5.0\TryCICD.AssemblyInfoInputs.cache
+D:\husnul\CICD_GitHub\CICD_GitHub\TryCICD\obj\Debug\net5.0\TryCICD.AssemblyInfo.cs
+D:\husnul\CICD_GitHub\CICD_GitHub\TryCICD\obj\Debug\net5.0\TryCICD.csproj.CoreCompileInputs.cache
+D:\husnul\CICD_GitHub\CICD_GitHub\TryCICD\obj\Debug\net5.0\TryCICD.MvcApplicationPartsAssemblyInfo.cache
+D:\husnul\CICD_GitHub\CICD_GitHub\TryCICD\obj\Debug\net5.0\TryCICD.RazorAssemblyInfo.cache
+D:\husnul\CICD_GitHub\CICD_GitHub\TryCICD\obj\Debug\net5.0\TryCICD.RazorAssemblyInfo.cs
